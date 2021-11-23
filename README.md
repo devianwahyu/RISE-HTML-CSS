@@ -12,7 +12,11 @@ Tampilan website portofolio sederhana, menggunakan HTML dan CSS
 
 ### Preview Hasil:
 Web Mode:
+
+
 <img src="./assets/web.jpeg" alt="Preview Hasil Image" />
 
 Mobile Mode:
+
+
 <img src="./assets/mobile.jpeg" alt="Preview Hasil Image" />
